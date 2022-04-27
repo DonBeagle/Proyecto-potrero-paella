@@ -1,0 +1,13 @@
+body {background-color: brown;}
+.titulo {color: orange;}
+.grande {font-size: 50px;}
+.titulo {font-size: 70px;}
+.descripcion {font-size: 30px;}
+.ingredientes {font-size: 30px;}
+.titulo {text-decoration: underline;}
+.titulo {text-decoration-color: orange;}
+.grande {text-align: center;}
+.grande {text-decoration: underline;}
+.grande {text-decoration-color: orange;}
+.grande {color: orange;}
+.imagenpaella {max-width: 450px;}
